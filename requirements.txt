@@ -1,1 +1,1 @@
-pyswisseph 2.10.3.2
+pyswissep==2.10.3.2
